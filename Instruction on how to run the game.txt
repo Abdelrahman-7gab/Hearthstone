@@ -1,0 +1,37 @@
+After Importing The project, select the controller class from the controller package
+then Run the program from that class.
+
+In the top right corner there's an "Adjust Names" Button
+that you can use to change players' names. (Default is player 1 & player 2 ).
+
+in the middle of the screen there will be 2 rows having 5 buttons each..
+the top row buttons will represent the selection of player 1 and bottom of the player 2.
+
+after selecting both heroes the game starts, player 1 will be always the player on the bottom half of the screen
+and player 2 will always be the player on the top half of the screen.
+in the top left corner you will find a text describing who's the current player turn
+
+each player will have either flipped buttons or not depending on the current player turn..
+in order to play a minion just clicking on the Minion button will play it or throw an exception ( not enough mana ,etc)
+
+in order to attack with a minion, you need to click on the minion after it's added to the field and then 
+click on the target (Minion or Hero) that you want to attack.
+
+(all heroes' photos are actually buttons but they don't have borders)
+in order to attack a hero or use a hero target spell on a hero, after clicking on the button that does the action. 
+you will need to click on the hero's photo
+
+in the West Center of the screen there will be a status text 
+that displays if a user is doing an action that requires multiple button clicks (Attacking , Spell, Hero power ,etc)
+
+in order to use aoe / field spells just clicking on it will play it or throw the respective exception.. 
+and to play Hero/Minion Target Spells it will be the same as attacking with minion with first clicking on the spell
+and then clicking on the target..
+
+In order to use the hero's power, There's a button next to the hero photo which also have the hero's power photo on it
+you can use it just like using a target spell.
+
+and finally there will be an "End Turn" Button that will be in the east center of the screen 
+that is the same button for both players that will end turn.
+
+
