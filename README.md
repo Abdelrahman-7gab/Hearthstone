@@ -5,9 +5,10 @@
 This was a project to learn OOP in college. 
 they provided us with the Minions CSV and the game extracts the minions information from it. 
 
-the game uses pure java libraries and uses Java swing for the GUI 
-(The GUI was a bonus part of the project but my team and I took it personal and worked very hard on it and wrote more than 3000 lines of code
-to make the game look good as close to the original as possible. 
+the game uses pure java libraries and uses Java swing for the GUI <br>
+#### The GUI was a bonus part of the project
+but my team and I took it personal and worked very hard on it and wrote more than 3000 lines of code
+to make the game look good and as close to the original as possible. 
 
 check out the game GUI Here: 
 
